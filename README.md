@@ -191,6 +191,7 @@ slack
 vlc
 keka
 kap
+keycastr
 figma
 visual-studio-code
 sublime-text

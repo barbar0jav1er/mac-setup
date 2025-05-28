@@ -35,11 +35,14 @@ This repo contains info of all the apps / tools / settings that I use in my dail
 
 ---
 ## What Macbook do I haver?
-I'm using two Apple Machines
+I'm using two Apple Machines.
 
 1. MacBook Pro 2023 13"
-    - Apple M2
+    - Apple M2 Pro
     - 8 GB RAM
+2. Mac Mini 2024
+    - Apple M4 Pro
+    - 48 GB RAM
   
 
 ## OS Settings
@@ -184,6 +187,7 @@ You can install them in one go by placing them all into a text file and then run
 
 ```
 discord
+slack
 vlc
 keka
 kap

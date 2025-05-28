@@ -206,7 +206,7 @@ xargs brew install < apps.txt
 
 I prefer [Ghostty](https://ghostty.org/) because: Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
-Checkout their documentation for more info on what Ghostty can do: [https://ghostty.org/docsl]https://ghostty.org/docs)
+Checkout their documentation for more info on what Ghostty can do: [https://ghostty.org/docsl](https://ghostty.org/docs)
 
 ```sh
 brew install --cask ghostty
